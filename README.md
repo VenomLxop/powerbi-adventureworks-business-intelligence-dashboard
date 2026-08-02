@@ -176,7 +176,7 @@ Designed interactive dashboards including:
 
 # Data Model
 
-<img src="Images/Polished Data set Image.png" width="900"/>
+<img src="Images/Polised Data set Image.png" width="900"/>
 
 The project follows a Star Schema to improve performance, simplify relationships, and enable efficient filtering across fact and dimension tables.
 
