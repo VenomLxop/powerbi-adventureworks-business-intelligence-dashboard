@@ -18,12 +18,13 @@ The dashboard enables users to monitor key business KPIs, analyze sales and prof
 6. Dashboard Pages
 7. DAX Measures
 8. Technologies Used
-9. Installation
-10. Usage
-11. Repository Structure
-12. Future Improvements
-13. License
-14. Contact
+9. Data Set
+10. Installation
+11. Usage
+12. Repository Structure
+13. Future Improvements
+14. License
+15. Contact
 
 ---
 
@@ -240,7 +241,20 @@ Power BI AI visuals were used to identify the factors influencing customer behav
 - What-if Parameters
 
 ---
+# Dataset
 
+This project is built using the **AdventureWorks** sample dataset as part of a Microsoft Power BI training course.
+
+To respect the course materials and associated licensing, the raw dataset is **not included** in this repository.
+
+If you would like to explore or reproduce this project, please obtain the AdventureWorks dataset from one of the following sources:
+
+- The original training course (if you are enrolled)
+- The official Microsoft AdventureWorks sample data
+
+Once the dataset is available, open the Power BI (.pbix) file and update the data source paths if required.
+
+---
 # Installation
 
 Clone this repository
