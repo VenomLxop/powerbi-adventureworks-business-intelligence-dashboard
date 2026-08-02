@@ -1,3 +1,8 @@
+---------------------------------------------------
+ AdventureWorks Business Intelligence Dashboard
+
+      Power BI | DAX | Power Query
+---------------------------------------------------
 📊 AdventureWorks Business Intelligence Dashboard | Power BI
 
 
