@@ -260,7 +260,7 @@ Once the dataset is available, open the Power BI (.pbix) file and update the dat
 Clone this repository
 
 ```bash
-git clone https://github.com/yourusername/adventureworks-business-intelligence-dashboard.git
+git clone https://github.com/VenomLxop/powerbi-adventureworks-business-intelligence-dashboard.git
 ```
 
 Open
