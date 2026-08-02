@@ -55,7 +55,7 @@ The project follows the complete Business Intelligence workflow:
 
 ### Product Analytics
 
-<img src="Images/Product Detail Dashboard.png" width="900"/>
+<img src="Images/Prodcut Detail Dashboard.png" width="900"/>
 
 ---
 
