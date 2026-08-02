@@ -1,11 +1,8 @@
 ---------------------------------------------------
- AdventureWorks Business Intelligence Dashboard
+📊 AdventureWorks Business Intelligence Dashboard
 
       Power BI | DAX | Power Query
 ---------------------------------------------------
-📊 AdventureWorks Business Intelligence Dashboard | Power BI
-
-
 
 The **AdventureWorks Business Intelligence Dashboard** is an end-to-end Business Intelligence project developed using Microsoft Power BI. This project demonstrates the complete BI workflow—from data extraction and transformation to data modeling, DAX calculations, and interactive dashboard development.
 
