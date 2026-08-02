@@ -49,25 +49,25 @@ The project follows the complete Business Intelligence workflow:
 
 ### Executive Dashboard
 
-<img src="Images/ExecutiveDashboard.png" width="900"/>
+<img src="Images/Executive Dashboard.png" width="900"/>
 
 ---
 
 ### Product Analytics
 
-<img src="Images/ProductDashboard.png" width="900"/>
+<img src="Images/Product Detail Dashboard.png" width="900"/>
 
 ---
 
 ### Customer Analytics
 
-<img src="Images/CustomerDashboard.png" width="900"/>
+<img src="Images/Customer Detail Dashboard.png" width="900"/>
 
 ---
 
 ### AI Key Influencers
 
-<img src="Images/KeyInfluencers.png" width="900"/>
+<img src="Images/Key Influencers Dashboard.png" width="900"/>
 
 ---
 
@@ -176,7 +176,7 @@ Designed interactive dashboards including:
 
 # Data Model
 
-<img src="Images/DataModel.png" width="900"/>
+<img src="Images/Polished Data set Image.png" width="900"/>
 
 The project follows a Star Schema to improve performance, simplify relationships, and enable efficient filtering across fact and dimension tables.
 
